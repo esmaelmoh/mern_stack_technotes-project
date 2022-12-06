@@ -1,4 +1,4 @@
-# "MERN Stack Course"
+MERN STACK PORJECT
 
 ### 💡 Suggested tutorials
 - 🔗 [Node.js Course for Beginners](https://youtu.be/f2EqECiTBL8)
